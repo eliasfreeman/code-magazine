@@ -1,2 +1,0 @@
-# code-magazine
-code-magazine
